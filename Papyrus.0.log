@@ -1,0 +1,849 @@
+[06/05/2021 - 01:26:03AM] Papyrus log opened (PC)
+[06/05/2021 - 01:26:03AM] Function GetEffectMagnitudes in the empty state on type Ingredient does not exist. Function will not be flagged as callable from tasklets.
+[06/05/2021 - 01:26:03AM] Update budget: 1.200000ms (Extra tasklet budget: 1.200000ms, Load screen budget: 500.000000ms)
+[06/05/2021 - 01:26:03AM] Memory page: 128 (min) 512 (max) 76800 (max total)
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderScrappyZControl", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderKrambambuli", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderSlowTimeWine", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderScrappyControlItem", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderCleanerFX", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderErverScroll01", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderErverScroll02", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderCreateFood", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderStaff", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderBhalzarf02", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderScrappyCommentLoc", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderBedAnd", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderTelGen", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderBorder", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDSQ04Barrel", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderWaterBorder", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderFaceMachine", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderShipPortal", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderAndavelRing", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderAmulet", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "HaemProjects", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderMudcrabs", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDeathMasterMarisaVerendas", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDeathMasterErverMilo", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDeathMasterBralisSendu", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDeathMasterMarenDvin", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDeathMasterShaglak", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDeathMasterShanatSeltri", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDeathMasterTaminaElenil", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDeathMasterSererOris", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDeathMasterZaronaOris", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDeathMasterAriniSendu", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDeathMasterMeranoRendo", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDeathMasterSelveniAndavel", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDeathMasterTadisAndavel", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDeathMasterYyenIlu", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDeathMasterEvosMils", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderCleanerLRFoot", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDeathMasterSlave", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDeathMasterSpriggan", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDwemerGhost", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderScrappyHeadTracking", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwaSpSadrithKegranHomeOwn_05960A0D", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwaSpSadrithKegranHomeOwn_05960A0D to DwaSpSadrithKegranHomeOwner (08960A0D) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDSQ03Staff", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDSSQ08Player", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDSSQ08Global", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script DimonoiderDSSQ08Global to DwarfSphereSQ08 (0897F2B4) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereSQ08_0597F2B4", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereSQ08_0597F2B4 to DwarfSphereSQ08 (0897F2B4) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereSQ09_05984460", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereSQ09_05984460 to DwarfSphereSQ09 (08984460) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderSprigganAlias", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderSprigganFollower", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script DimonoiderSprigganFollower to DwaSpCreatureDialogueSpriggan (08984462) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwaSpCreatureDialogueSpri_05984462", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwaSpCreatureDialogueSpri_05984462 to DwaSpCreatureDialogueSpriggan (08984462) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereSQ10_059A2CD3", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereSQ10_059A2CD3 to DwarfSphereSQ10 (089A2CD3) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereSQ11_05AFCC1B", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereSQ11_05AFCC1B to DwarfSphereSQ11 (08AFCC1B) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereSQ12_05B905BA", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereSQ12_05B905BA to DwarfSphereSQ12 (08B905BA) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderScrappySoulGemEvent", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderScrappyAlias", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwaSpCreatureDialogueScra_040EC726", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwaSpCreatureDialogueScra_040EC726 to DwaSpCreatureDialogueSnippy (080EC726) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderScrappyFollower", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script DimonoiderScrappyFollower to DwaSpCreatureDialogueSnippy (080EC726) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderScrappyObjectsMonitoring", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script DimonoiderScrappyObjectsMonitoring to DwaSpCreatureDialogueSnippy (080EC726) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwaSpDialogueRoDeo_0526DE09", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwaSpDialogueRoDeo_0526DE09 to DwaSpDialogueRoDeo (0826DE09) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwaSpSadrithKegranGeneric_056C1C18", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwaSpSadrithKegranGeneric_056C1C18 to DwaSpSadrithKegranGenericDialogue (086C1C18) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereQ00_0576435D", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereQ00_0576435D to DwarfSphereQ00 (0876435D) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereQ01_05764361", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereQ01_05764361 to DwarfSphereQ01 (08764361) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_ProjectAHOEpisode01_057A10E5", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_ProjectAHOEpisode01_057A10E5 to ProjectAHOEpisode01 (087A10E5) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderFailQuest", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereQ02_057A61E7", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereQ02_057A61E7 to DwarfSphereQ02 (087A61E7) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDSQ05Player", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereQ05_057BA642", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereQ05_057BA642 to DwarfSphereQ05 (087BA642) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDSQ05Global", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script DimonoiderDSQ05Global to DwarfSphereQ05 (087BA642) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDSQ04Acid", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereQ04_057B5507", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereQ04_057B5507 to DwarfSphereQ04 (087B5507) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereQ03_057B54ED", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereQ03_057B54ED to DwarfSphereQ03 (087B54ED) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereQ07_058159F6", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereQ07_058159F6 to DwarfSphereQ07 (088159F6) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDSQ06Books", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDSQ06DweItem", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereQ06_057D3B68", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereQ06_057D3B68 to DwarfSphereQ06 (087D3B68) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwaSpSadrithKegranDialogu_0582EF0F", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwaSpSadrithKegranDialogu_0582EF0F to DwaSpSadrithKegranDialogue (0882EF0F) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwaSpCreatureDialogueMudc_058F61E4", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwaSpCreatureDialogueMudc_058F61E4 to DwaSpCreatureDialogueMudcrabs (088F61E4) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderLever", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderControlStage", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereSQ01_058A99B1", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereSQ01_058A99B1 to DwarfSphereSQ01 (088A99B1) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereSQ02_058A99B3", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereSQ02_058A99B3 to DwarfSphereSQ02 (088A99B3) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereSQ03_058B3BDD", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereSQ03_058B3BDD to DwarfSphereSQ03 (088B3BDD) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderZaronaNote", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereSQ04_058B8D04", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereSQ04_058B8D04 to DwarfSphereSQ04 (088B8D04) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereSQ05_058C804B", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereSQ05_058C804B to DwarfSphereSQ05 (088C804B) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereSQ06_058DC48F", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereSQ06_058DC48F to DwarfSphereSQ06 (088DC48F) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "DimonoiderDSSQ07Player", missing file?
+[06/05/2021 - 01:26:14AM] Cannot open store for class "QF_DwarfSphereSQ07_058EBFB9", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script QF_DwarfSphereSQ07_058EBFB9 to DwarfSphereSQ07 (088EBFB9) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "PF_DwaSpSaKeErverMarisaBattl_056FE9C0", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script PF_DwaSpSaKeErverMarisaBattl_056FE9C0 to  (086FE9C0) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "PF_DwaSpSaKeMarisaErverBattl_056F9894", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script PF_DwaSpSaKeMarisaErverBattl_056F9894 to  (086F9894) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "PF__056D0F7B", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script PF__056D0F7B to  (086D0F7B) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "PF_DwarfSphereQ01PTongKill_0577378A", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script PF_DwarfSphereQ01PTongKill_0577378A to  (0877378A) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "SF_DwarfSphereQ07Shanat01_0588513C", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script SF_DwarfSphereQ07Shanat01_0588513C to  (0888513C) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "SF_DwarfSphereQ06Battle_057F734A", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script SF_DwarfSphereQ06Battle_057F734A to  (087F734A) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "SF_DwaSpDialogueScrappyComme_0417F78F", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script SF_DwaSpDialogueScrappyComme_0417F78F to  (0817F78F) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "SF_DwarfSphereQ06Shanat01_057D8C73", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script SF_DwarfSphereQ06Shanat01_057D8C73 to  (087D8C73) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "SF_DwarfSphereQ01Scene01_0576E57C", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script SF_DwarfSphereQ01Scene01_0576E57C to  (0876E57C) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "SF_DwarfSphereQ06SaKe01_058108A9", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script SF_DwarfSphereQ06SaKe01_058108A9 to  (088108A9) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "SF_DwarfSphereQ07YyenToAHO_05843344", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script SF_DwarfSphereQ07YyenToAHO_05843344 to  (08843344) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "SF_DwarfSphereQ07ShanatEnd_05885147", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script SF_DwarfSphereQ07ShanatEnd_05885147 to  (08885147) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "SF_DwarfSphereSQ05Drink_058D225C", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script SF_DwarfSphereSQ05Drink_058D225C to  (088D225C) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "SF_DwarfSphereSQ09Action_0598E7B9", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script SF_DwarfSphereSQ09Action_0598E7B9 to  (0898E7B9) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "SF_DwarfSphereQ07MarisaErver_0581AB01", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script SF_DwarfSphereQ07MarisaErver_0581AB01 to  (0881AB01) because their base types do not match
+[06/05/2021 - 01:26:14AM] Cannot open store for class "SF_DwarfSphereQ01Scene02_0577888E", missing file?
+[06/05/2021 - 01:26:14AM] Error: Unable to bind script SF_DwarfSphereQ01Scene02_0577888E to  (0877888E) because their base types do not match
+[06/05/2021 - 01:26:16AM] Cannot open store for class "KA_AdditemOnActivate", missing file?
+[06/05/2021 - 01:26:16AM] Cannot open store for class "KA_RevFogSCRIPT", missing file?
+[06/05/2021 - 01:26:17AM] Cannot open store for class "QF_BillyroGarilamMoreniQuest_01002865", missing file?
+[06/05/2021 - 01:26:17AM] Error: Unable to bind script QF_BillyroGarilamMoreniQuest_01002865 to BillyroGarilamMoreniQuest (6A002865) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (0D143792) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13249639) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13249637) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1324963A) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131748C2) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131B1681) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131B1680) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13249638) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131799DF) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EC662) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131BB8A7) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131BB8A6) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131BB8A5) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EA744) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131799DE) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13192F01) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13192F07) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131748C8) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13192EFE) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1324963B) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13192F00) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13192EFF) because their base types do not match
+[06/05/2021 - 01:26:18AM] Cannot open store for class "CWITelescopeScript", missing file?
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script CWITelescopeScript to  (1132C9F3) because their base types do not match
+[06/05/2021 - 01:26:18AM] Cannot open store for class "Dimonoid25DwaSp06Ext", missing file?
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script Dimonoid25DwaSp06Ext to  (0824D083) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderBedAnd to  (0824D083) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000F1878) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000F77DE) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script BillyroGarilamMoreniDeathScript to  (6A005E7F) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderDeathMasterSpriggan to  (08989586) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (04034E2E) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (040385E7) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (15111A8B) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DA04OghmaInfiniumScript to  (00032795) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF55E) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF55F) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF560) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF561) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF562) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF563) because their base types do not match
+[06/05/2021 - 01:26:18AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131BB8A8) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF557) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF558) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131A22C9) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EB206) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EB207) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000F1897) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EB224) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EB225) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF559) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF55A) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (040385E6) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (040385E1) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (040385E2) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (040385E9) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDeathMasterMeranoRendo to  (085399F1) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDeathMasterTadisAndavel to  (08539A05) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDeathMasterSelveniAndavel to  (08539A06) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDeathMasterSlave to  (08736725) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDeathMasterMarisaVerendas to  (085399DA) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDeathMasterTaminaElenil to  (085399EA) because their base types do not match
+[06/05/2021 - 01:26:19AM] Cannot open store for class "DimonoiderCabinet", missing file?
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderCabinet to  (08B06E49) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDwemerGhost to  (08B496BC) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderBorder to  (087DDDA5) because their base types do not match
+[06/05/2021 - 01:26:19AM] Cannot open store for class "DimonoiderMQCube01", missing file?
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderMQCube01 to  (0886198E) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderCabinet to  (08AF29C7) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDwemerGhost to  (08AF7B19) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDeathMasterShaglak to  (085399FF) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDeathMasterShanatSeltri to  (08539A0A) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDeathMasterErverMilo to  (0853EB12) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderCleanerLRFoot to  (088108A7) because their base types do not match
+[06/05/2021 - 01:26:19AM] Cannot open store for class "DimonoiderSnippyLever", missing file?
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderSnippyLever to  (08592819) because their base types do not match
+[06/05/2021 - 01:26:19AM] Cannot open store for class "DimonoiderShipDoor", missing file?
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderShipDoor to  (08081E06) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyHeadTracking to  (080DD3FF) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDeathMasterMarenDvin to  (085399F9) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDeathMasterBralisSendu to  (085399F8) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDeathMasterAriniSendu to  (085399F7) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDeathMasterZaronaOris to  (085399E1) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDeathMasterSererOris to  (085399E0) because their base types do not match
+[06/05/2021 - 01:26:19AM] Cannot open store for class "Dimonoid25PosVer", missing file?
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A48) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A47) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A46) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A44) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A42) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A40) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A3E) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A3C) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A3A) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A2F) because their base types do not match
+[06/05/2021 - 01:26:19AM] Cannot open store for class "Dimonoid25PosGor", missing file?
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosGor to  (085C7A45) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosGor to  (085C7A43) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosGor to  (085C7A41) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosGor to  (085C7A3F) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosGor to  (085C7A3D) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosGor to  (085C7A3B) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosGor to  (085C7A39) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Dimonoid25PosGor to  (085C7A28) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDeathMasterEvosMils to  (08684E16) because their base types do not match
+[06/05/2021 - 01:26:19AM] Cannot open store for class "DimonoiderBhalzarf10", missing file?
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB88) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB89) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB8B) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB8E) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB8A) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (0858D675) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB8D) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB8C) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB92) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB93) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB94) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB90) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB8F) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB91) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderAndavelRing to  (088B3C01) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderDeathMasterYyenIlu to  (085447F5) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderTelGen to  (0888A277) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderTelGen to  (0888A275) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderTelGen to  (0888A274) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderTelGen to  (0888A271) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderTelGen to  (0888A270) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderBorder to  (087DDDA3) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderBorder to  (087DDDA2) because their base types do not match
+[06/05/2021 - 01:26:19AM] Cannot open store for class "DimonoiderLibButton", missing file?
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderLibButton to  (084AE8F0) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderCleanerLRFoot to  (084FC53F) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (101241C5) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (101241C7) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (101241C6) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (101241C4) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (10127A82) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (10127A75) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (10194BFF) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (10194BE6) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (10193E47) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (101241C3) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (101241C2) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (10127AE3) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (10195244) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (10193E94) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1148AFD1) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1148AD8C) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1148AD2A) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1147B6E4) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (113092AE) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (112FBD34) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1324962F) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1324962D) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13249631) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13249630) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (130A0131) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B0E) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B0D) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13249642) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B0F) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B09) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B10) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B11) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13249641) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13249640) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1324963F) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B0C) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13281BA4) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13281BA3) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13281528) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script Rigmor_SlaversListScript to  (13281B71) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B08) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B07) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B06) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B04) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B03) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B02) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B01) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B0B) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1324962A) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1324962E) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1513E2BF) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1513E2BE) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (15110F4D) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (2A511735) because their base types do not match
+[06/05/2021 - 01:26:19AM] Cannot open store for class "KA_TWprojectileScript", missing file?
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script KA_TWprojectileScript to  (2C1187BB) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (32A54521) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (3266ADD9) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (3269877B) because their base types do not match
+[06/05/2021 - 01:26:19AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (32665CD4) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderDSQ03Staff to alias DSSQ08Dagger on quest DwarfSphereSQ08 (0897F2B4) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderDSSQ08Player to alias DSSQ08Player on quest DwarfSphereSQ08 (0897F2B4) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderSprigganAlias to alias DwaSpSprigganAlias on quest DwaSpCreatureDialogueSpriggan (08984462) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderScrappySoulGemEvent to alias DwaSpScrappyAlias on quest DwaSpCreatureDialogueSnippy (080EC726) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderScrappyAlias to alias DwaSpScrappyAlias on quest DwaSpCreatureDialogueSnippy (080EC726) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderFailQuest to alias DSQ02Erver on quest DwarfSphereQ02 (087A61E7) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderFailQuest to alias DSQ02Marisa on quest DwarfSphereQ02 (087A61E7) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderFailQuest to alias DSQ02Tamina on quest DwarfSphereQ02 (087A61E7) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderDSQ05Player to alias DSQ05Player on quest DwarfSphereQ05 (087BA642) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderDSQ04Acid to alias DSQ04Acid on quest DwarfSphereQ04 (087B5507) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderDSQ03Staff to alias DSQ03Staff on quest DwarfSphereQ03 (087B54ED) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderDSQ06Books to alias DSQ06Book01 on quest DwarfSphereQ06 (087D3B68) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderDSQ06Books to alias DSQ06Book02 on quest DwarfSphereQ06 (087D3B68) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderDSQ06Books to alias DSQ06Book03 on quest DwarfSphereQ06 (087D3B68) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderDSQ06DweItem to alias DSQ06DweItem01 on quest DwarfSphereQ06 (087D3B68) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderDSQ06DweItem to alias DSQ06DweItem02 on quest DwarfSphereQ06 (087D3B68) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderLever to alias DSSQ01Lever on quest DwarfSphereSQ01 (088A99B1) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderControlStage to alias DSSQ01Staff on quest DwarfSphereSQ01 (088A99B1) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderControlStage to alias DSSQ02Item on quest DwarfSphereSQ02 (088A99B3) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderControlStage to alias DSSQ03AndavelRing on quest DwarfSphereSQ03 (088B3BDD) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderZaronaNote to alias DSSQ04Note on quest DwarfSphereSQ04 (088B8D04) because their base types do not match
+[06/05/2021 - 01:26:23AM] Error: Unable to bind script DimonoiderDSSQ07Player to alias Player on quest DwarfSphereSQ07 (088EBFB9) because their base types do not match
+[06/05/2021 - 01:26:23AM] Warning: Property NettleBalm on script defaultsetstageonplayeracquire attached to alias NettleBalm on quest RigmorQuest00 (130FC4ED) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:23AM] Warning: Property CompleteThis on script FFAOBOnContainerChange attached to alias RitualTome on quest FFAOBMainQuest (65003DFB) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:23AM] Warning: Property FollowerHuntingBow on script dialoguefollowerscript attached to DwarfSphereQ00 (0876435D) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:23AM] Warning: Property FollowerIronArrow on script dialoguefollowerscript attached to DwarfSphereQ00 (0876435D) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:23AM] Warning: Property DLC2crSprigganBurntFlames on script DLC2BurtSpigganFXScript attached to  (08989586) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:23AM] Error: Property NPCTilma on script QF_SkyforgeSteelWeaponsQuest_02003DEF attached to SkyforgeSteelWeaponsQuest (25003DEF) cannot be bound because <NULL form> (0003BDE9) is not the right type
+[06/05/2021 - 01:26:23AM] Warning: Property ArcPerkCRTree on script dbm_perkresetscript attached to  (105A9669) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:23AM] Warning: Property ArcPerkPickTree on script dbm_perkresetscript attached to  (105A9669) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:23AM] Warning: Property ArcPerkTorchTree on script dbm_perkresetscript attached to  (105A9669) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:23AM] Warning: Property AnvilQuestameir on script qf_anvilmoonpathquest_0106a8ca attached to AnvilMoonpathQuest (1006A8CA) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:23AM] Warning: Property DLC1_SkyrimClearFV_A on script cwicookingpotglowscript attached to  (11099019) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:23AM] Error: Property WDISPLAY on script DBMWeaponDisplay attached to  (101250D8) cannot be bound because  (3200AA0E) is not the right type
+[06/05/2021 - 01:26:23AM] Error: Property WDISPLAY2 on script DBMWeaponDisplay attached to  (101250D8) cannot be bound because  (3200AA28) is not the right type
+[06/05/2021 - 01:26:23AM] Error: Property WDISPLAY on script DBMWeaponDisplay attached to  (101250D1) cannot be bound because <NULL form> (3200AA0D) is not the right type
+[06/05/2021 - 01:26:23AM] Error: Property ADISPLAY on script dbm_armordisplay attached to  (101250D5) cannot be bound because  (3200AA2B) is not the right type
+[06/05/2021 - 01:26:23AM] Error: Property Pages on script _LWV_MCM_Script attached to _SigEquipQuest (5E00182B) cannot be initialized because the value is the incorrect type
+[06/05/2021 - 01:26:23AM] Warning: Property HircinesRingPower on script companionshousekeepingscript attached to C00 (0004B2D9) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:23AM] VM is freezing...
+[06/05/2021 - 01:26:23AM] VM is frozen
+[06/05/2021 - 01:26:23AM] Reverting game...
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Rigmor_SlaversListScript to  (13281B71) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (040385E2) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereSQ11_05AFCC1B to DwarfSphereSQ11 (08AFCC1B) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB8B) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB8A) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB89) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EB206) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EB207) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (040385E1) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwaSpSadrithKegranDialogu_0582EF0F to DwaSpSadrithKegranDialogue (0882EF0F) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB8C) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereQ07_058159F6 to DwarfSphereQ07 (088159F6) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (040385E7) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereSQ03_058B3BDD to DwarfSphereSQ03 (088B3BDD) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (040385E6) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderShipDoor to  (08081E06) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (10127A75) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereSQ04_058B8D04 to DwarfSphereSQ04 (088B8D04) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (113092AE) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderSprigganFollower to DwaSpCreatureDialogueSpriggan (08984462) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwaSpCreatureDialogueSpri_05984462 to DwaSpCreatureDialogueSpriggan (08984462) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereSQ09_05984460 to DwarfSphereSQ09 (08984460) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderCleanerLRFoot to  (088108A7) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereQ00_0576435D to DwarfSphereQ00 (0876435D) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13249642) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (2A511735) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDeathMasterSelveniAndavel to  (08539A06) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDeathMasterTadisAndavel to  (08539A05) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDeathMasterMeranoRendo to  (085399F1) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1148AD8C) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB92) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1513E2BE) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB93) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1513E2BF) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDeathMasterAriniSendu to  (085399F7) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereQ06_057D3B68 to DwarfSphereQ06 (087D3B68) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (101241C4) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (101241C5) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (101241C6) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDeathMasterShaglak to  (085399FF) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (101241C7) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (101241C3) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDeathMasterSpriggan to  (08989586) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (101241C2) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script SF_DwarfSphereQ07MarisaErver_0581AB01 to  (0881AB01) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereQ02_057A61E7 to DwarfSphereQ02 (087A61E7) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDeathMasterBralisSendu to  (085399F8) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script KA_TWprojectileScript to  (2C1187BB) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (112FBD34) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script SF_DwarfSphereQ07Shanat01_0588513C to  (0888513C) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereQ04_057B5507 to DwarfSphereQ04 (087B5507) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script BillyroGarilamMoreniDeathScript to  (6A005E7F) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereSQ06_058DC48F to DwarfSphereSQ06 (088DC48F) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderAndavelRing to  (088B3C01) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereQ01_05764361 to DwarfSphereQ01 (08764361) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (15110F4D) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script SF_DwarfSphereQ07YyenToAHO_05843344 to  (08843344) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EC662) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script PF_DwaSpSaKeErverMarisaBattl_056FE9C0 to  (086FE9C0) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwaSpSadrithKegranGeneric_056C1C18 to DwaSpSadrithKegranGenericDialogue (086C1C18) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereSQ10_059A2CD3 to DwarfSphereSQ10 (089A2CD3) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13281BA3) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosGor to  (085C7A3B) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script SF_DwarfSphereQ06Shanat01_057D8C73 to  (087D8C73) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A3A) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EA744) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDwemerGhost to  (08AF7B19) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13281BA4) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderSnippyLever to  (08592819) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A3E) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosGor to  (085C7A3F) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13249637) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_BillyroGarilamMoreniQuest_01002865 to BillyroGarilamMoreniQuest (6A002865) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13249630) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13249631) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131748C8) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13281528) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13249639) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13249638) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1324963B) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1324963A) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B10) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131748C2) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (04034E2E) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script PF__056D0F7B to  (086D0F7B) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereSQ05_058C804B to DwarfSphereSQ05 (088C804B) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script SF_DwarfSphereQ01Scene01_0576E57C to  (0876E57C) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1324963F) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB8E) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script SF_DwarfSphereQ01Scene02_0577888E to  (0877888E) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (0D143792) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (32A54521) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBorder to  (087DDDA2) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (15111A8B) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B03) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B02) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B01) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereQ05_057BA642 to DwarfSphereQ05 (087BA642) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDSQ05Global to DwarfSphereQ05 (087BA642) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF55F) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDwemerGhost to  (08B496BC) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB94) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF55A) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereQ03_057B54ED to DwarfSphereQ03 (087B54ED) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B04) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1324962F) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (10127AE3) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDSSQ08Global to DwarfSphereSQ08 (0897F2B4) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereSQ08_0597F2B4 to DwarfSphereSQ08 (0897F2B4) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereSQ02_058A99B3 to DwarfSphereSQ02 (088A99B3) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderLibButton to  (084AE8F0) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B06) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B07) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF558) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF559) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB91) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script SF_DwarfSphereSQ05Drink_058D225C to  (088D225C) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B0D) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B0C) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderTelGen to  (0888A274) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderTelGen to  (0888A275) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (040385E9) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwaSpCreatureDialogueMudc_058F61E4 to DwaSpCreatureDialogueMudcrabs (088F61E4) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13192EFF) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderCleanerLRFoot to  (084FC53F) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDeathMasterYyenIlu to  (085447F5) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderTelGen to  (0888A277) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDeathMasterSererOris to  (085399E0) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDeathMasterZaronaOris to  (085399E1) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDeathMasterMarenDvin to  (085399F9) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyHeadTracking to  (080DD3FF) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B0F) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDeathMasterShanatSeltri to  (08539A0A) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B0E) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBorder to  (087DDDA5) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDeathMasterTaminaElenil to  (085399EA) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDeathMasterMarisaVerendas to  (085399DA) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDeathMasterSlave to  (08736725) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B0B) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script SF_DwarfSphereSQ09Action_0598E7B9 to  (0898E7B9) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131799DF) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131799DE) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderTelGen to  (0888A271) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderTelGen to  (0888A270) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF557) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B08) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25DwaSp06Ext to  (0824D083) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBedAnd to  (0824D083) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A40) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B09) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderMQCube01 to  (0886198E) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1324962E) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131BB8A7) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDeathMasterEvosMils to  (08684E16) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131BB8A6) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131BB8A5) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13192F00) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB8F) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13192F01) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwaSpSadrithKegranHomeOwn_05960A0D to DwaSpSadrithKegranHomeOwner (08960A0D) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script SF_DwarfSphereQ07ShanatEnd_05885147 to  (08885147) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDeathMasterErverMilo to  (0853EB12) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (32665CD4) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB88) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13192EFE) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (10194BFF) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script SF_DwarfSphereQ06Battle_057F734A to  (087F734A) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwaSpCreatureDialogueScra_040EC726 to DwaSpCreatureDialogueSnippy (080EC726) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyFollower to DwaSpCreatureDialogueSnippy (080EC726) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyObjectsMonitoring to DwaSpCreatureDialogueSnippy (080EC726) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131B1681) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script SF_DwarfSphereQ06SaKe01_058108A9 to  (088108A9) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script PF_DwarfSphereQ01PTongKill_0577378A to  (0877378A) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script PF_DwaSpSaKeMarisaErverBattl_056F9894 to  (086F9894) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000F1878) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A42) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script SF_DwaSpDialogueScrappyComme_0417F78F to  (0817F78F) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF560) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF55E) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosGor to  (085C7A3D) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A3C) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131B1680) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosGor to  (085C7A39) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13249640) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereSQ12_05B905BA to DwarfSphereSQ12 (08B905BA) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (3269877B) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1148AD2A) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_ProjectAHOEpisode01_057A10E5 to ProjectAHOEpisode01 (087A10E5) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF563) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosGor to  (085C7A45) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF562) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A44) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (132D2B11) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (130A0131) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1324962D) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (10193E47) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script CWITelescopeScript to  (1132C9F3) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBorder to  (087DDDA3) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000F1897) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB90) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EF561) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EB225) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A48) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1147B6E4) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (085BBB8D) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderCabinet to  (08AF29C7) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A2F) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (3266ADD9) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderBhalzarf10 to  (0858D675) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (10195244) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000EB224) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (10193E94) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1148AFD1) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131A22C9) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (1324962A) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13192F07) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (13249641) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderCabinet to  (08B06E49) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (131BB8A8) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A46) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosVer to  (085C7A47) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosGor to  (085C7A28) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (10127A82) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosGor to  (085C7A43) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (10194BE6) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script Dimonoid25PosGor to  (085C7A41) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereSQ01_058A99B1 to DwarfSphereSQ01 (088A99B1) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwaSpDialogueRoDeo_0526DE09 to DwaSpDialogueRoDeo (0826DE09) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DA04OghmaInfiniumScript to  (00032795) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script QF_DwarfSphereSQ07_058EBFB9 to DwarfSphereSQ07 (088EBFB9) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyCommentLoc to  (000F77DE) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderControlStage to alias DSSQ02Item on quest DwarfSphereSQ02 (088A99B3) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDSQ06Books to alias DSQ06Book03 on quest DwarfSphereQ06 (087D3B68) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderSprigganAlias to alias DwaSpSprigganAlias on quest DwaSpCreatureDialogueSpriggan (08984462) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDSQ05Player to alias DSQ05Player on quest DwarfSphereQ05 (087BA642) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDSSQ08Player to alias DSSQ08Player on quest DwarfSphereSQ08 (0897F2B4) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDSQ03Staff to alias DSQ03Staff on quest DwarfSphereQ03 (087B54ED) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDSSQ07Player to alias Player on quest DwarfSphereSQ07 (088EBFB9) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderLever to alias DSSQ01Lever on quest DwarfSphereSQ01 (088A99B1) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderFailQuest to alias DSQ02Tamina on quest DwarfSphereQ02 (087A61E7) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDSQ06DweItem to alias DSQ06DweItem01 on quest DwarfSphereQ06 (087D3B68) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDSQ06DweItem to alias DSQ06DweItem02 on quest DwarfSphereQ06 (087D3B68) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderFailQuest to alias DSQ02Marisa on quest DwarfSphereQ02 (087A61E7) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappySoulGemEvent to alias DwaSpScrappyAlias on quest DwaSpCreatureDialogueSnippy (080EC726) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderScrappyAlias to alias DwaSpScrappyAlias on quest DwaSpCreatureDialogueSnippy (080EC726) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDSQ03Staff to alias DSSQ08Dagger on quest DwarfSphereSQ08 (0897F2B4) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDSQ06Books to alias DSQ06Book01 on quest DwarfSphereQ06 (087D3B68) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderFailQuest to alias DSQ02Erver on quest DwarfSphereQ02 (087A61E7) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDSQ06Books to alias DSQ06Book02 on quest DwarfSphereQ06 (087D3B68) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderZaronaNote to alias DSSQ04Note on quest DwarfSphereSQ04 (088B8D04) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderControlStage to alias DSSQ03AndavelRing on quest DwarfSphereSQ03 (088B3BDD) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderDSQ04Acid to alias DSQ04Acid on quest DwarfSphereQ04 (087B5507) because their base types do not match
+[06/05/2021 - 01:26:24AM] Error: Unable to bind script DimonoiderControlStage to alias DSSQ01Staff on quest DwarfSphereSQ01 (088A99B1) because their base types do not match
+[06/05/2021 - 01:26:24AM] Warning: Property FollowerHuntingBow on script dialoguefollowerscript attached to DwarfSphereQ00 (0876435D) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:24AM] Warning: Property FollowerIronArrow on script dialoguefollowerscript attached to DwarfSphereQ00 (0876435D) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:24AM] Warning: Property DLC2crSprigganBurntFlames on script DLC2BurtSpigganFXScript attached to  (08989586) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:24AM] Warning: Property NettleBalm on script defaultsetstageonplayeracquire attached to alias NettleBalm on quest RigmorQuest00 (130FC4ED) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:24AM] Error: Property NPCTilma on script QF_SkyforgeSteelWeaponsQuest_02003DEF attached to SkyforgeSteelWeaponsQuest (25003DEF) cannot be bound because <NULL form> (0003BDE9) is not the right type
+[06/05/2021 - 01:26:24AM] Warning: Property AnvilQuestameir on script qf_anvilmoonpathquest_0106a8ca attached to AnvilMoonpathQuest (1006A8CA) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:24AM] Warning: Property DLC1_SkyrimClearFV_A on script cwicookingpotglowscript attached to  (11099019) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:24AM] Error: Property WDISPLAY on script DBMWeaponDisplay attached to  (101250D8) cannot be bound because  (3200AA0E) is not the right type
+[06/05/2021 - 01:26:24AM] Error: Property WDISPLAY2 on script DBMWeaponDisplay attached to  (101250D8) cannot be bound because  (3200AA28) is not the right type
+[06/05/2021 - 01:26:24AM] Error: Property WDISPLAY on script DBMWeaponDisplay attached to  (101250D1) cannot be bound because <NULL form> (3200AA0D) is not the right type
+[06/05/2021 - 01:26:25AM] Warning: Property HircinesRingPower on script companionshousekeepingscript attached to C00 (0004B2D9) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:25AM] Error: Property Pages on script _LWV_MCM_Script attached to _SigEquipQuest (5E00182B) cannot be initialized because the value is the incorrect type
+[06/05/2021 - 01:26:25AM] Warning: Property ArcPerkCRTree on script dbm_perkresetscript attached to  (105A9669) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:25AM] Warning: Property ArcPerkPickTree on script dbm_perkresetscript attached to  (105A9669) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:25AM] Warning: Property ArcPerkTorchTree on script dbm_perkresetscript attached to  (105A9669) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:25AM] Warning: Property CompleteThis on script FFAOBOnContainerChange attached to alias RitualTome on quest FFAOBMainQuest (65003DFB) cannot be initialized because the script no longer contains that property
+[06/05/2021 - 01:26:25AM] Error: Property ADISPLAY on script dbm_armordisplay attached to  (101250D5) cannot be bound because  (3200AA2B) is not the right type
+[06/05/2021 - 01:26:27AM] Error: Unable to bind script DimonoiderAmulet to  (FF001744) because their base types do not match
+[06/05/2021 - 01:26:37AM] Loading game...
+[06/05/2021 - 01:26:37AM] Cannot open store for class "RLO_UnderstoneEntranceValveScript", missing file?
+[06/05/2021 - 01:26:37AM] Warning: Unable to get type RLO_UnderstoneEntranceValveScript referenced by the save game. Objects of this type will not be loaded.
+[06/05/2021 - 01:26:37AM] Cannot open store for class "RLO_UnderstoneLeftTunnelLeverScript", missing file?
+[06/05/2021 - 01:26:37AM] Warning: Unable to get type RLO_UnderstoneLeftTunnelLeverScript referenced by the save game. Objects of this type will not be loaded.
+[06/05/2021 - 01:26:37AM] Cannot open store for class "RLO_UnderstoneCentralValveScript", missing file?
+[06/05/2021 - 01:26:37AM] Warning: Unable to get type RLO_UnderstoneCentralValveScript referenced by the save game. Objects of this type will not be loaded.
+[06/05/2021 - 01:26:37AM] Cannot open store for class "RLO_UnderstoneThroneLeverScript", missing file?
+[06/05/2021 - 01:26:37AM] Warning: Unable to get type RLO_UnderstoneThroneLeverScript referenced by the save game. Objects of this type will not be loaded.
+[06/05/2021 - 01:26:37AM] Cannot open store for class "RLO_ElectricArcTriggerScript", missing file?
+[06/05/2021 - 01:26:37AM] Warning: Unable to get type RLO_ElectricArcTriggerScript referenced by the save game. Objects of this type will not be loaded.
+[06/05/2021 - 01:26:37AM] Cannot open store for class "rlo_noguardtorchesscript", missing file?
+[06/05/2021 - 01:26:37AM] Warning: Unable to get type rlo_noguardtorchesscript referenced by the save game. Objects of this type will not be loaded.
+[06/05/2021 - 01:26:37AM] Cannot open store for class "RLO_ExteriorsPlayerAliasScript", missing file?
+[06/05/2021 - 01:26:37AM] Warning: Unable to get type RLO_ExteriorsPlayerAliasScript referenced by the save game. Objects of this type will not be loaded.
+[06/05/2021 - 01:26:37AM] Cannot open store for class "RLO_InteriorsMaintananceScript", missing file?
+[06/05/2021 - 01:26:37AM] Warning: Unable to get type RLO_InteriorsMaintananceScript referenced by the save game. Objects of this type will not be loaded.
+[06/05/2021 - 01:26:37AM] Cannot open store for class "PF_RLO_AbrecanLightsGreetPac_042ACF6E", missing file?
+[06/05/2021 - 01:26:37AM] Warning: Unable to get type PF_RLO_AbrecanLightsGreetPac_042ACF6E referenced by the save game. Objects of this type will not be loaded.
+[06/05/2021 - 01:26:37AM] Warning: Could not find type RLO_ExteriorsPlayerAliasScript in the type table in save
+[06/05/2021 - 01:26:37AM] Warning: Could not find type RLO_UnderstoneThroneLeverScript in the type table in save
+[06/05/2021 - 01:26:37AM] Warning: Could not find type PF_RLO_AbrecanLightsGreetPac_042ACF6E in the type table in save
+[06/05/2021 - 01:26:37AM] Warning: Could not find type RLO_InteriorsMaintananceScript in the type table in save
+[06/05/2021 - 01:26:37AM] Warning: Could not find type RLO_UnderstoneEntranceValveScript in the type table in save
+[06/05/2021 - 01:26:37AM] Warning: Could not find type RLO_ElectricArcTriggerScript in the type table in save
+[06/05/2021 - 01:26:37AM] Warning: Could not find type rlo_noguardtorchesscript in the type table in save
+[06/05/2021 - 01:26:37AM] Warning: Could not find type RLO_UnderstoneCentralValveScript in the type table in save
+[06/05/2021 - 01:26:37AM] Warning: Could not find type RLO_UnderstoneLeftTunnelLeverScript in the type table in save
+[06/05/2021 - 01:26:38AM] VM is thawing...
+[06/05/2021 - 01:26:38AM] vDBM/DataManager: OnGameReload
+[06/05/2021 - 01:26:38AM] vDBM/DataManager: Doing upkeep...
+[06/05/2021 - 01:26:38AM] vDBM/DataManager: Finished upkeep!
+[06/05/2021 - 01:26:39AM] Helgen Reborn.esp located
+[06/05/2021 - 01:26:39AM] InitWidgetLoader()
+[06/05/2021 - 01:26:39AM] Konahrik_Accoutrements.esp located
+[06/05/2021 - 01:26:39AM] Gray Fox Cowl.esm located
+[06/05/2021 - 01:26:39AM] Wyrmstooth.esp located
+[06/05/2021 - 01:26:39AM] Falskaar.esm located
+[06/05/2021 - 01:26:39AM] ELFX - exteriors.esp located
+[06/05/2021 - 01:26:39AM] BGSomethingFishy.esp not located. Please ignore errors about missing file, this is normal
+[06/05/2021 - 01:26:39AM] JKs Skyrim.esp located
+[06/05/2021 - 01:26:39AM] Immersive College of Winterhold  located
+[06/05/2021 - 01:26:40AM] Fossilsyum.esp not located. Please ignore errors about missing file, this is normal
+[06/05/2021 - 01:26:40AM] [sic_configmenuscript <SIC_ConfigMenuQuest (140C4C3A)>]: Loaded user settings. 
+[06/05/2021 - 01:26:45AM] Error:  (10741B70): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B70)].ObjectReference.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:45AM] Error:  (10741B74): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B74)].ObjectReference.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:45AM] Error:  (10741B76): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B76)].ObjectReference.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:45AM] Error:  (10741B78): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B78)].ObjectReference.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:45AM] Error:  (10741B7A): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B7A)].ObjectReference.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:45AM] Error:  (10741B7C): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B7C)].ObjectReference.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:45AM] Error:  (10741B7F): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B7F)].ObjectReference.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:45AM] Error:  (10741B82): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B82)].ObjectReference.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:46AM] Error:  (10741B8B): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B8B)].ObjectReference.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:46AM] Error:  (10741B8E): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B8E)].ObjectReference.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:46AM] Error:  (10741B90): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B90)].ObjectReference.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:46AM] Error:  (10741B93): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B93)].ObjectReference.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:46AM] Error:  (10741B96): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B96)].ObjectReference.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:46AM] Error:  (10741B71): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B71)].defaultBlockFollowerActivation.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:46AM] Error:  (10741B7B): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B7B)].defaultBlockFollowerActivation.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:46AM] Error:  (10741B7D): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B7D)].defaultBlockFollowerActivation.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:46AM] Error:  (10741B7E): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B7E)].defaultBlockFollowerActivation.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:46AM] Error:  (10741B80): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B80)].defaultBlockFollowerActivation.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:46AM] Error:  (10741B83): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B83)].defaultBlockFollowerActivation.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:46AM] Error:  (10741B86): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B86)].defaultBlockFollowerActivation.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:47AM] Error:  (10741B87): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B87)].defaultBlockFollowerActivation.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:47AM] Error:  (10741B88): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B88)].defaultBlockFollowerActivation.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:47AM] Error:  (10741B8F): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B8F)].defaultBlockFollowerActivation.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:47AM] Error:  (10741B91): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B91)].defaultBlockFollowerActivation.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:47AM] Error:  (10741B94): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B94)].defaultBlockFollowerActivation.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:47AM] Error:  (10741B97): cannot enable an object with an enable state parent.
+stack:
+	[ (10741B97)].defaultBlockFollowerActivation.Enable() - "<native>" Line ?
+	[DBM_KAFormSMHandler (10147D83)].dbm_qf__05147d83.OnUpdate() - "DBM_QF__05147D83.psc" Line 427
+[06/05/2021 - 01:26:50AM] Error: Cannot add None to a container
+stack:
+	[ (10713A7A)].ObjectReference.AddItem() - "<native>" Line ?
+	[DBM_ICWSMHandler (107281A3)].dbm__qf__057281a3.OnUpdate() - "DBM__QF__057281A3.psc" Line 162
+[06/05/2021 - 01:26:50AM] Error: Cannot add None to a container
+stack:
+	[ (10713A7A)].ObjectReference.AddItem() - "<native>" Line ?
+	[DBM_ICWSMHandler (107281A3)].dbm__qf__057281a3.OnUpdate() - "DBM__QF__057281A3.psc" Line 163
+[06/05/2021 - 01:26:50AM] Error: Cannot add None to a container
+stack:
+	[ (10713A7A)].ObjectReference.AddItem() - "<native>" Line ?
+	[DBM_ICWSMHandler (107281A3)].dbm__qf__057281a3.OnUpdate() - "DBM__QF__057281A3.psc" Line 164
+[06/05/2021 - 01:26:50AM] Error: Cannot add None to a container
+stack:
+	[ (10713A7A)].ObjectReference.AddItem() - "<native>" Line ?
+	[DBM_ICWSMHandler (107281A3)].dbm__qf__057281a3.OnUpdate() - "DBM__QF__057281A3.psc" Line 165
+[06/05/2021 - 01:26:50AM] Error: Cannot add None to a container
+stack:
+	[ (10713A7A)].ObjectReference.AddItem() - "<native>" Line ?
+	[DBM_ICWSMHandler (107281A3)].dbm__qf__057281a3.OnUpdate() - "DBM__QF__057281A3.psc" Line 166
+[06/05/2021 - 01:27:09AM] VM is freezing...
+[06/05/2021 - 01:27:09AM] VM is frozen
+[06/05/2021 - 01:27:11AM] Saving game...
+[06/05/2021 - 01:27:11AM] VM is thawing...
+[06/05/2021 - 01:27:19AM] VM is freezing...
+[06/05/2021 - 01:27:19AM] VM is frozen
+[06/05/2021 - 01:27:21AM] Saving game...
+[06/05/2021 - 01:27:22AM] VM is thawing...
+[06/05/2021 - 01:27:45AM] VM is freezing...
+[06/05/2021 - 01:27:45AM] VM is frozen
+[06/05/2021 - 01:27:45AM] Saving game...
+[06/05/2021 - 01:27:45AM] VM is thawing...
+[06/05/2021 - 01:27:49AM] VM is freezing...
+[06/05/2021 - 01:27:49AM] VM is frozen
